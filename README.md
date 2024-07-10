@@ -2,7 +2,7 @@
 
 🌐 Currently working on: Building an exciting new website project to showcase my skills and creativity.
 
-💡 Skills: Proficient in HTML, CSS, JavaScript, and eager to learn more about backend technologies and frameworks.
+💡 Skills: Proficient in HTML, Python, JavaScript, and eager to learn more about backend technologies and frameworks.
 
 📚 Learning: Always seeking to expand my knowledge in algorithms, data structures, and software engineering principles.
 
