@@ -55,7 +55,7 @@ I build full-stack web applications and machine learning systems — from React/
 | **Multimodal Futures Trading** | Deep learning model fusing an LSTM with a DistilBERT text encoder (PyTorch) to forecast agricultural futures from price + climate data. |
 | **Agentic Procurement Agent** | Model-based autonomous purchasing agent using Bayesian inference + Monte Carlo minimax-regret to decide when to buy, ask, or abstain. |
 
-> _Add repo links to the three project rows above once they're public — and pin these four repos on your profile so they show up front and center._
+
 
 ---
 
