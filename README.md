@@ -57,15 +57,6 @@ I build full-stack web applications and machine learning systems — from React/
 
 
 
----
-
-## 📊 GitHub Stats
-
-![Muhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhilramesh&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhilramesh&layout=compact)
-
----
 
 ## 🔗 Let's Connect
 
